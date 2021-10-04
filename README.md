@@ -1,4 +1,17 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋 I'm Conner</h2>
+
+I'm a cybersecurity researcher at Carleton University's [Internet Security Lab (CISL)](https://security.scs.carleton.ca/people.html), and I'm a Junior DevSecOps engineer at SecOps Gurus Inc. 
+
+- 🔭 I’m currently working on cybersecurity research at CISL, and secure cloud environments at SecOps Gurus
+- 🌱 I’m currently researching IoT security, cloud security
+- 🤔 I’m looking for help with rust 🦀 I don't get the hype...
+- 💬 Ask me about ☁️, IoT, or anything OS security related!
+- 📫 How to reach me: 
+  - **Professional 💼** bradley (at symbol) advtech.ca
+  - **Academic 🧑‍🎓** connerbradley (at symbol) scs.carleton.ca
+  - **Personal 🧔** people use email for personal use??
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: when not in front of a computer, I can be found woodworking 🪵 or riding a dual sport 🏍️
 
 <!--
 **TheConner/TheConner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
