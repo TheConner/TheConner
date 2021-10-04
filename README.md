@@ -6,7 +6,7 @@ I'm a cybersecurity researcher at Carleton University's [Internet Security Lab (
 - 🌱 I’m currently researching IoT security, cloud security
 - 🤔 I’m looking for help with rust 🦀 I don't get the hype...
 - 💬 Ask me about ☁️, IoT, or anything OS security related!
-- 📫 How to reach me *replace parentheses with ascii character code contained inside*: 
+- 📫 How to reach me *replace parentheses with [ascii character code](https://theasciicode.com.ar/) contained inside*: 
   - **Professional 💼** bradley (64) advtech (46) ca
   - **Academic 🧑‍🎓** connerbradley (64) scs (46) carleton (46) ca
   - **Personal 🧔** people use email for personal use??
