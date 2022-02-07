@@ -13,6 +13,8 @@ I'm a cybersecurity researcher at Carleton University's [Internet Security Lab (
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: when not in front of a computer, I can be found woodworking 🪵 or riding a dual sport 🏍️
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theconner&theme=DARK)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **TheConner/TheConner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
