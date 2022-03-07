@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋 I'm Conner</h2>
 
-I'm a cybersecurity researcher at Carleton University's [Internet Security Lab (CISL)](https://security.scs.carleton.ca/people.html), and I'm a Junior DevSecOps engineer at SecOps Gurus Inc. 
+I'm a cybersecurity researcher at Carleton University, and I'm a Junior DevSecOps engineer at SecOps Gurus Inc. 
 
 - 🔭 I’m currently working on cybersecurity research at CISL, and secure cloud environments at SecOps Gurus
 - 🌱 I’m currently researching IoT security, cloud security
