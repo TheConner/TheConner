@@ -2,14 +2,12 @@
 
 I'm a cybersecurity researcher at Carleton University, and I'm a Junior DevSecOps engineer at SecOps Gurus Inc. 
 
-- 🔭 I’m currently working on cybersecurity research at CISL, and secure cloud environments at SecOps Gurus
-- 🌱 I’m currently researching IoT security, cloud security
-- 🦀 Rust is great
+- 🔭 I’m currently working on cybersecurity research at CISL, and secure cloud environments/software at SecOps Gurus
+- 🦀 I like to work in Rust. If I can't work in Rust, I can be found working with JS.
 - 📫 How to reach me *replace parentheses with [ascii character code](https://theasciicode.com.ar/) contained inside*: 
   - **Professional 💼** bradley (64) advtech (46) ca
   - **Academic 🧑‍🎓** connerbradley (64) scs (46) carleton (46) ca
   - **Personal 🧔** people use email for personal use??
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: when not in front of a computer, I can be found woodworking 🪵 or riding a dual sport 🏍️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theconner&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
