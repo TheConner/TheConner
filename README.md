@@ -4,8 +4,7 @@ I'm a cybersecurity researcher at Carleton University, and I'm a Junior DevSecOp
 
 - 🔭 I’m currently working on cybersecurity research at CISL, and secure cloud environments at SecOps Gurus
 - 🌱 I’m currently researching IoT security, cloud security
-- 🤔 I’m looking for help with rust 🦀 I don't get the hype...
-- 💬 Ask me about ☁️, IoT, or anything OS security related!
+- 🦀 Rust is great
 - 📫 How to reach me *replace parentheses with [ascii character code](https://theasciicode.com.ar/) contained inside*: 
   - **Professional 💼** bradley (64) advtech (46) ca
   - **Academic 🧑‍🎓** connerbradley (64) scs (46) carleton (46) ca
