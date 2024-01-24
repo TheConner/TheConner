@@ -1,8 +1,8 @@
 <h2 align="center">Hi there 👋 I'm Conner</h2>
 
-I'm a cybersecurity researcher at Carleton University, and I'm a Junior DevSecOps engineer at SecOps Gurus Inc. 
+I'm a DevSecOps engineer at SecOps Gurus Inc, previously I researched cybersecurity at Carleton University.
 
-- 🔭 I’m currently working on cybersecurity research at CISL, and secure cloud environments/software at SecOps Gurus
+- 🔭 I’m currently working on embedded systems security, and secure cloud environments/software at SecOps Gurus
 - 🦀 I like to work in Rust. If I can't work in Rust, I can be found working with JS.
 - 📫 How to reach me *replace parentheses with [ascii character code](https://theasciicode.com.ar/) contained inside*: 
   - **Professional 💼** bradley (64) advtech (46) ca
